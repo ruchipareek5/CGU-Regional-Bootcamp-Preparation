@@ -1,0 +1,7 @@
+1. Share WorldSkills 2024 problem statement with candidates.- over email
+2. Explain problem statement .Let them read in 30 mins window they can ask any questions on Slack
+3. Candidates to attempt Problem Statement on Saturday Sunday Monday Tuesday
+4. Submit the solution in GitHub - https://github.com/ruchipareek5/Regionals-2026-Bootcamp-Assignments/BenchMarking Mock
+5. Call Candidate on Wednesday - share Marking Scheme - 6:00 -6:30 PM
+6. Candidates to judge their assignment in Tandem on Wednesday and Thursday
+7. On Friday Candidates do Self analysis basis TDD -create a 3 column excel sheet TDD topic, their confidence score, and solution to fix it.
