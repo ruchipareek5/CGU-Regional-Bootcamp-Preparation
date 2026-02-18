@@ -1,0 +1,4 @@
+1. Create a screen which generates random bubble size structure.
+2. these bubbles color, size(radius),position of bubble generation, direction of movement should be random.
+3. Bubble should generate after every 5 seconds.
+4. Bubble should disappear with an animation when it touches the edge of the screen.

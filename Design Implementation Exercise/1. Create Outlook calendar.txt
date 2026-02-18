@@ -1,0 +1,7 @@
+1. Create a meeting room booking system.
+2. As part of this system Create grid like structure such as google calendar or outlook
+3. X Axis should be time.
+4. Y axis should be name of meeting rooms
+5. Meeting rooms can only be booked from 9:00 AM to 6:00 AM
+6. User can only see today's view on the screen, no need to create future and past view
+7. No two bookings can be done for a same room at a same time.

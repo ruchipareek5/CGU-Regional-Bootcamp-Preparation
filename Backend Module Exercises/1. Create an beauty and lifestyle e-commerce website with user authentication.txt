@@ -1,0 +1,19 @@
+1. Create a website for skin care and wellness category.
+This assignment has 3 parts to it - 
+1. Designing, Implementation of Backend APIs, Implementation of front end
+2. Design the screens for website and mobile first.
+3. Share your designs through either Figma or any other design tool that you use.
+4. Create a style guide for website to be used while developing website.
+5. Create a logo for the website
+6. Take inspiration from Nykaa and Tira websites.
+7. Create backend which has following functions - 
+	1. Add to cart
+	2. Login using mobile number and otp or email address and password.
+	3. Display all the products and their categories to user on home screen.
+	4. Add a blogs section, where user can reads blogs written
+	5. Once user adds items to their cart ans clicks on buying, user should be able to see them in their order history.
+	6. 
+-- INSTRUCTIONS
+1. save your files under XX_module_A for designs.
+2. save your files under XX_Module_B for Backend API 
+3. save your files under XX_Module_C for Front end Implementation.
